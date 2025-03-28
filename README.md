@@ -19,7 +19,7 @@ Ein automatisiertes Bash-Script zur schnellen Einrichtung von **Tailscale** auf 
 Das Script kann direkt über `curl` ausgeführt werden:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/ra5on/tailscale-curl/main/tailscale-auto.sh | bash
+curl -sL https://raw.githubusercontent.com/ra5on/tailscale-curl/main/tailscale-curl | bash
 ```
 📦 Hinweis: Das Programm curl muss installiert sein. Falls es fehlt, kannst du es mit folgendem Befehl nachinstallieren:
 ```
